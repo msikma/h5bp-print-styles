@@ -9,6 +9,9 @@ The main project is not published on NPM by the authors because it's
 boilerplate code, and not a framework. Still, this CSS code makes for
 a very decent print styles module.
 
+The version of this package follows the version number of HTML5 Boilerplate
+and will be updated whenever they update their print styles.
+
 Please see the [https://github.com/h5bp/html5-boilerplate](html5-boilerplate)
 project on Github for more information.
 

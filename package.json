@@ -1,6 +1,7 @@
 {
   "name": "h5bp-print-styles",
   "version": "4.3.1",
+  "main": "print.scss",
   "description": "HTML5 Boilerplate print styles",
   "homepage": "http://h5bp.com/",
   "license": {
